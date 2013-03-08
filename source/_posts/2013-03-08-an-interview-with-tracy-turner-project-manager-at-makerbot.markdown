@@ -6,7 +6,7 @@ comments: true
 categories: [Interview, Makerbot]
 ---
 
-This week, I've had the privilege to talk to Tracy Turner, who is Project Manager at Makerbot. I asked her a few questions about life at the Makerbot offices in NY. For those who don't know [Makerbot](http://www.makerbot.com/), they make [really](http://store.makerbot.com/replicator.html) [cool](http://store.makerbot.com/replicator2.html) [stuff](https://store.makerbot.com/replicator2x.html).
+This week, I've had the privilege to talk to Tracy Turner, who is a Project Manager at Makerbot. I asked her a few questions about life at the Makerbot offices in NY. For those who don't know [Makerbot](http://www.makerbot.com/), they make [really](http://store.makerbot.com/replicator.html) [cool](http://store.makerbot.com/replicator2.html) [stuff](https://store.makerbot.com/replicator2x.html).
 
 <!-- more -->
 
