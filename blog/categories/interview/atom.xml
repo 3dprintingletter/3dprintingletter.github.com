@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://3dprintingletter.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Interview | My Octopress Blog]]></title>
+  <link href="http://3dprintingletter.github.com/blog/categories/interview/atom.xml" rel="self"/>
   <link href="http://3dprintingletter.github.com/"/>
   <updated>2013-03-08T12:20:06+01:00</updated>
   <id>http://3dprintingletter.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://3dprintingletter.github.com/blog/2013/03/08/an-interview-with-tracy-turner-project-manager-at-makerbot/"/>
     <updated>2013-03-08T11:12:00+01:00</updated>
     <id>http://3dprintingletter.github.com/blog/2013/03/08/an-interview-with-tracy-turner-project-manager-at-makerbot</id>
-    <content type="html"><![CDATA[<p>This week, I&#8217;ve had the privilege to talk to Tracy Turner, who is Project Manager at Makerbot. I asked her a few questions about life at the Makerbot offices in NY. For those who don&#8217;t know <a href="http://www.makerbot.com/">Makerbot</a>, they make <a href="http://store.makerbot.com/replicator.html">really</a> <a href="http://store.makerbot.com/replicator2.html">cool</a> <a href="https://store.makerbot.com/replicator2x.html">stuff</a>.</p>
+    <content type="html"><![CDATA[<p>This week, I've had the privilege to talk to Tracy Turner, who is Project Manager at Makerbot. I asked her a few questions about life at the Makerbot offices in NY. For those who don't know <a href="http://www.makerbot.com/">Makerbot</a>, they make <a href="http://store.makerbot.com/replicator.html">really</a> <a href="http://store.makerbot.com/replicator2.html">cool</a> <a href="https://store.makerbot.com/replicator2x.html">stuff</a>.</p>
 
 <!-- more -->
 
@@ -48,7 +48,7 @@ and forging completely new pathways.</p>
 
 
 <ul>
-<li>Tell us about working at MakerBot. What&#8217;s the vibe like? What&#8217;s it like in the office?</li>
+<li>Tell us about working at MakerBot. What's the vibe like? What's it like in the office?</li>
 </ul>
 
 
@@ -114,7 +114,7 @@ for new desk at MetroTech and also a Millennium Falcon for my son.</p>
 
 
 <ul>
-<li>Is there anything special about the MakerBot offices you&#8217;d like to mention? Any
+<li>Is there anything special about the MakerBot offices you'd like to mention? Any
 perks for people interested in joining MakerBot?</li>
 </ul>
 
@@ -133,9 +133,9 @@ chocolate maker we have in the kitchen. Daily fresh fruit helps fuel the body as
 mind, and there are quite a few foodies working at MakerBot, as someone always seems to
 be bringing in something interesting to share.</p>
 
-<p>And the Munchkins&#8230; There seems to be an endless stream of Munchkin donuts. As part of
+<p>And the Munchkins... There seems to be an endless stream of Munchkin donuts. As part of
 each new hire’s first day at MakerBot, they hand out Munchkins to all as they are introduced
-around the office. And Yoga Tuesdays to work off those Munchkins&#8230;</p>
+around the office. And Yoga Tuesdays to work off those Munchkins...</p>
 
 <p>We are a close-knit community and have different clubs for various activities we enjoy doing
 together – games, knitting, eating, etc.
@@ -154,27 +154,7 @@ together – games, knitting, eating, etc.
 <br/>
 
 
-<p>So&#8230; life at Makerbot seems very interesting. Thanks a lot Tracy!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[A new blog for 3D Printing]]></title>
-    <link href="http://3dprintingletter.github.com/blog/2013/03/08/a-new-blog-for-3d-printing/"/>
-    <updated>2013-03-08T10:54:00+01:00</updated>
-    <id>http://3dprintingletter.github.com/blog/2013/03/08/a-new-blog-for-3d-printing</id>
-    <content type="html"><![CDATA[<p>Hi!</p>
-
-<p>I finally did what I planned to do a long time ago, create a 3D Printing blog to support my weekly <a href="http://www.3dprintingletter.com/">3D Printing newsletter</a>. This blog is a permanent work in progress. The main purpose is not necessarily to provide 3D Printing news (that&#8217;s already done by many other blogs, websites and my own 3D printing newsletter). So you might ask what this blog will be about then. Well, the short answer is we&#8217;ll see. The slightly longer answer is:</p>
-
-<ul>
-<li>Interviews with 3D printing pioneers</li>
-<li>Hands-on 3D Printers</li>
-<li>Original articles about 3D Printing that have not been reported by news outlets</li>
-</ul>
-
-
-<p>You&#8217;ll hear from me. Cheers!</p>
+<p>So... life at Makerbot seems very interesting. Thanks a lot Tracy!</p>
 ]]></content>
   </entry>
   
