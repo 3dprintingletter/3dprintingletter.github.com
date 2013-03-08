@@ -106,7 +106,7 @@ together – games, knitting, eating, etc.
 
 + Is MakerBot hiring? :)
 
-Yes! MakerBot continues to grow in so many areas. Go to our website  (http://www.makerbot.com/) and click on “MakerBot Careers” at the bottom of the page to see  current listings. If the job you want isn’t listed, send in your resume anyway using the __“I DON’T SEE THE RIGHT FIT but I want to apply for open-yet-unposted positions!”__ option.
+Yes! MakerBot continues to grow in so many areas. Go to our [website](http://www.makerbot.com/) and click on “MakerBot Careers” at the bottom of the page to see  current listings. If the job you want isn’t listed, send in your resume anyway using the __“I DON’T SEE THE RIGHT FIT but I want to apply for open-yet-unposted positions!”__ option.
 
 <br/>
 
