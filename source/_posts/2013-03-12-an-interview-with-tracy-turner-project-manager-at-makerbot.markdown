@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An interview with Tracy Turner - Project Manager at Makerbot"
-date: 2013-03-08 11:12
+date: 2013-03-12 11:12
 comments: true
 categories: [Interview, Makerbot]
 ---
@@ -110,4 +110,4 @@ Yes! MakerBot continues to grow in so many areas. Go to our [website](http://www
 
 <br/>
 
-So... life at Makerbot seems very interesting. Thanks a lot Tracy!
+So... life at Makerbot seems very interesting. Thanks a lot Tracy! If you liked this post, you can sign up to the once-weekly [3D Printing newsletter](http://www.3dprintingletter.com/) for more exclusive interviews and news about 3D printing.
